@@ -44,6 +44,7 @@
 .topico-estudante{
     padding: 0 60px;}
 .todos-estudantes{
+    display: grid;
    
     grid-template-columns: 25% 25% 25% 25%; 
 }
