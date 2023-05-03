@@ -41,7 +41,7 @@
     justify-content: center;
     padding: 16px 0; 
 
-    grid-template-columns:  20% 20% 20% 10%; 
+    grid-template-columns: 10% 20% 20% 20% 20% 10%; 
 }
 
 .topico-estudante{
