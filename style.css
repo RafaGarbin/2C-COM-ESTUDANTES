@@ -34,17 +34,15 @@
 .escola-texto { font-size: 18px;}
 .estudantes{background-color: #ca4747;}
 .estudantes-imagem{ width: 100px;}
-.estudantes-titulo{ padding: 20px 0 0 150px;}
+.estudantes-titulo{ padding: 40px 0 0 150px;}
 
 .estudante-div {text-align: center;
     display: flex;
-   
     justify-content: center;
 
- 
-   
-    grid-template-columns: 25% 25% 25% 25%; 
+    grid-template-columns: 10% 20% 20% 20% 20% 10%; 
 }
+
 .topico-estudante{
     padding: 0 60px;}
 
