@@ -39,9 +39,9 @@
 .estudante-div {text-align: center;
     display: flex;
     justify-content: center;
-    padding: 16px 0; 
 
-    grid-template-columns: 10% 20% 20% 20% 20% 10%; 
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;  
 }
 
 .topico-estudante{
